@@ -1,1 +1,5 @@
+# Idea
 .idea/
+# Composer
+vendor/
+composer.lock
