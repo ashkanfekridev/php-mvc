@@ -1,0 +1,15 @@
+{
+    "name": "ashkanfekridev/php-mvc",
+    "autoload": {
+        "psr-4": {
+            "PhpMvc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ashkanfekridev",
+            "email": "ashkanfekridev@gmail.com"
+        }
+    ],
+    "require": {}
+}
